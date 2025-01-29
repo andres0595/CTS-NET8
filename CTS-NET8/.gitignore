@@ -1,0 +1,97 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-Specific Files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.csproj.user
+
+# Log Files
+*.log
+*.tlog
+
+# Visual Studio Files
+.vs/
+.vscode/
+.idea/
+
+# NuGet Packages
+*.nupkg
+# Include NuGet lock file only if you're using `nuget restore`
+project.lock.json
+project.fragment.lock.json
+packages/
+*.snupkg
+
+# Dotnet CLI Files
+.dotnet_tool/
+.dotnet-tools/
+
+# Rider and IntelliJ IDEA Files
+.idea/
+*.sln.iml
+
+# Resharper Files
+*.DotSettings.user
+_ReSharper.Caches/
+
+# Azure Functions
+.local.settings.json
+
+# Entity Framework Migrations
+Migrations/
+
+# Generated Files
+*.g.cs
+*.g.i.cs
+*.generated.cs
+*.designer.cs
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# Debug and Release Folders
+debug/
+release/
+
+# Web Config Files
+appsettings.json
+appsettings.*.json
+secrets.json
+*.publishsettings
+
+# JetBrains Rider logs
+.idea/
+.idea_modules/
+.idea/httpRequests/
+
+# Git files
+!.gitignore
+
+# Application Cache
+dist/
+publish/
+
+# Dependencies Cache
+*.lock.json
+
+# NPM/Yarn Files (if you're using with frontend)
+node_modules/
+
+# Coverage files
+coverage/
+*.lcov
+
+# Temporary Files
+*.tmp
+*.temp
